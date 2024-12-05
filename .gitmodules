@@ -1,0 +1,9 @@
+[submodule "Chassis"]
+	path = Chassis
+	url = https://github.com/great-guy102/Chassis.git
+[submodule "Gimbal"]
+	path = Gimbal
+	url = https://github.com/great-guy102/Gimbal.git
+[submodule "RobotComponents"]
+	path = RobotComponents
+	url = https://github.com/great-guy102/RobotComponents.git
