@@ -3,6 +3,8 @@
         "*.tcc": "cpp",
         "memory": "cpp",
         "random": "cpp",
-        "optional": "cpp"
+        "optional": "cpp",
+        "string": "cpp",
+        "cstdint": "cpp"
     }
 }
